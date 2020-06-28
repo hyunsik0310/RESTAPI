@@ -1,0 +1,7 @@
+# server.port=8088 //properties의 경우 
+server:
+  port: 8088 
+  
+logging:
+ level:
+   org.springframework: DEBUG
